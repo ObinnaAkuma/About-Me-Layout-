@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Obinna Akuma</string>
+    <string name="yellow_star">"Yellow star "</string>
+
+    <string name="bio">Hi, My name is Obinna.
+    \n\nI love Android Development,
+    \n\nThis is why I have decided to become an Android Developer.
+    \nFor the past few months, I have been self learning Kotlin, the generally accepted programming
+    language for Android development by Google and so far, it has been an amazing journey.
+    \n\nI have a lot of projects in mind already I would love to put out there for the benefit of a
+    good number of people using my acquired skills.
+    \n\nI have also for the sake of consistency and achieving my goals, joined the 100DaysOfCode challenge on Twitter
+    where I constantly update my daily progress on learning Kotlin and Android Development for the next 100 days
+    currently on the 16th day.
+    \n\nI will be adopting the project based learning process, where I will be building out different projects that cut across
+    different learning concepts to further equip me for the Android development Job Market.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname ?</string>
+    <string name="done">Done</string>
+</resources>
